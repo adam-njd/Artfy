@@ -1,18 +1,38 @@
-# React + Vite
+🎨 ARTFY
+ARTFY is a startup web application that provides a digital space for artists to showcase and sell their artworks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built with ❤️ using React.js, CSS, and Material UI (MUI).
 
-Currently, two official plugins are available:
+The platform allows artists to share their creative work, and art lovers to explore and purchase unique pieces easily.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+🖼 Landing Page
+A small gallery showcasing popular artworks
 
-## React Compiler
+A button that redirects users to the full artworks gallery
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🧭 User-Friendly Navigation
+Clean and responsive header
 
-Note: This will impact Vite dev & build performances.
+Easy access to different sections of the app
 
-## Expanding the ESLint configuration
+ℹ️ Website Introduction
+Brief introduction explaining the platform’s purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔐 Authentication
+Login page
+
+Sign up page
+
+💳 Payment Interface
+Integrated payment UI for purchasing artworks
+
+🛠 Built With
+React.js
+
+CSS
+
+Material UI (MUI)
+
+📌 Project Goal
+To create a simple and elegant platform that empowers artists by giving them a space to present and monetize their work.
